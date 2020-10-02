@@ -6,7 +6,7 @@ eg. \
 $ gcc Prog2.c -o hello -fopenmp \
 $ ./hello
 
-##Programs:
+## Programs:
 1. Hello World Program
 2. Hello World Program - Version 2
 3. DAXPY Loop
